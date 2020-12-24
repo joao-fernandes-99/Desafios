@@ -1,0 +1,5 @@
+C:\Users\GRUPOTCMTI\Documents\desafio\Desafio6\obj\Debug\net5.0\Desafio6.csprojAssemblyReference.cache
+C:\Users\GRUPOTCMTI\Documents\desafio\Desafio6\obj\Debug\net5.0\Desafio6.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\GRUPOTCMTI\Documents\desafio\Desafio6\obj\Debug\net5.0\Desafio6.AssemblyInfoInputs.cache
+C:\Users\GRUPOTCMTI\Documents\desafio\Desafio6\obj\Debug\net5.0\Desafio6.AssemblyInfo.cs
+C:\Users\GRUPOTCMTI\Documents\desafio\Desafio6\obj\Debug\net5.0\Desafio6.csproj.CoreCompileInputs.cache

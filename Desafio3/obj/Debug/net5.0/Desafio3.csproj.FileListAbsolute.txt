@@ -1,0 +1,16 @@
+C:\Users\GRUPOTCMTI\Documents\desafio\Desafio3\bin\Debug\net5.0\Desafio3.exe
+C:\Users\GRUPOTCMTI\Documents\desafio\Desafio3\bin\Debug\net5.0\Desafio3.deps.json
+C:\Users\GRUPOTCMTI\Documents\desafio\Desafio3\bin\Debug\net5.0\Desafio3.runtimeconfig.json
+C:\Users\GRUPOTCMTI\Documents\desafio\Desafio3\bin\Debug\net5.0\Desafio3.runtimeconfig.dev.json
+C:\Users\GRUPOTCMTI\Documents\desafio\Desafio3\bin\Debug\net5.0\Desafio3.dll
+C:\Users\GRUPOTCMTI\Documents\desafio\Desafio3\bin\Debug\net5.0\ref\Desafio3.dll
+C:\Users\GRUPOTCMTI\Documents\desafio\Desafio3\bin\Debug\net5.0\Desafio3.pdb
+C:\Users\GRUPOTCMTI\Documents\desafio\Desafio3\obj\Debug\net5.0\Desafio3.csprojAssemblyReference.cache
+C:\Users\GRUPOTCMTI\Documents\desafio\Desafio3\obj\Debug\net5.0\Desafio3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\GRUPOTCMTI\Documents\desafio\Desafio3\obj\Debug\net5.0\Desafio3.AssemblyInfoInputs.cache
+C:\Users\GRUPOTCMTI\Documents\desafio\Desafio3\obj\Debug\net5.0\Desafio3.AssemblyInfo.cs
+C:\Users\GRUPOTCMTI\Documents\desafio\Desafio3\obj\Debug\net5.0\Desafio3.csproj.CoreCompileInputs.cache
+C:\Users\GRUPOTCMTI\Documents\desafio\Desafio3\obj\Debug\net5.0\Desafio3.dll
+C:\Users\GRUPOTCMTI\Documents\desafio\Desafio3\obj\Debug\net5.0\ref\Desafio3.dll
+C:\Users\GRUPOTCMTI\Documents\desafio\Desafio3\obj\Debug\net5.0\Desafio3.pdb
+C:\Users\GRUPOTCMTI\Documents\desafio\Desafio3\obj\Debug\net5.0\Desafio3.genruntimeconfig.cache
